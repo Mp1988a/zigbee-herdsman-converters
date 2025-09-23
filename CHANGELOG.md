@@ -1,5 +1,18 @@
 # Changelog
 
+## [25.31.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.30.0...v25.31.0) (2025-09-23)
+
+
+### Features
+
+* **add:** 929004581801 ([#10071](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10071)) ([72b5b68](https://github.com/Koenkk/zigbee-herdsman-converters/commit/72b5b68f883c70a1aee76093e64f89d1d395cbae))
+* Schneider Electric MUR36014: support `indicator_mode` ([#10068](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10068)) ([eb0faa7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/eb0faa7c71c6c184cb925f20145c5b2c619fae79))
+
+
+### Bug Fixes
+
+* Inovelli: fix parsing of custom cluster attribute ([#10065](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10065)) ([8580fd5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8580fd53a2cc98ca4e8771f40d7dcc57dfbd3e44))
+
 ## [25.30.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.29.0...v25.30.0) (2025-09-22)
 
 
